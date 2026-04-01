@@ -1,6 +1,6 @@
 # Claude Code + Codex + Gemini CLI：Mac 用户完全配置指南
 
-> 从零开始 · 三工具共享 Skills · 多 Workspace 隔离 · Token 高效管理
+> 从零开始 · 小白友好  三工具共享 Skills · 多 Workspace 隔离 · Token 高效管理
 
 ---
 
